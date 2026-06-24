@@ -1,0 +1,1 @@
+This demo is intended to run [regina 7.0](https://github.com/regina-normal/regina) in browser using Boxedwine26R1Web with wine11, MultiThreaded.
